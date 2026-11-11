@@ -1,12 +1,5 @@
-## Hi there 👋
+# Welcome to TMTCo's business Github page
 
-<!--
+## please see below, the roadmap for the website redesign
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[TMTCo Website redesign roadmap](https://github.com/orgs/TMTCO-git/projects/1)
